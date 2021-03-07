@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Greedy/becoming1.py"
+run = "python Greedy/1이될때까지/main.py"
