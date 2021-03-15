@@ -2,4 +2,4 @@ language = "python3"
 
 # Run 버튼을 누르면 아래 문자열이 실행됨
 # "python 실행하고자하는파일경로"
-run = "python Implementation/상하좌우/mine.py"
+run = "python Implementation/문자열재정렬/mine.py"
